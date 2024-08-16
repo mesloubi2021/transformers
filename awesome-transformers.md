@@ -7,7 +7,7 @@ developers, researchers, students, professors, engineers, and anyone else to bui
 In this list, we showcase incredibly impactful and novel projects that have pushed the field forward. We celebrate
 100 of these projects as we reach the milestone of 100k stars as a community; but we're very open to pull requests
 adding other projects to the list. If you believe a project should be here and it's not, then please, open a PR 
-to add it.
+to add it
 
 ## [gpt4all](https://github.com/nomic-ai/gpt4all)
 
